@@ -1,0 +1,11 @@
+.content{
+    max-width: 1400px;
+    max-height:800px;
+    height: 100vh;
+    margin: 0 auto;
+    background-image: url(images/background.jpg);
+    background-repeat: no-repeat;
+    background-color: #000;
+    background-position: 600% center;
+    background-size: 95% 100%;
+}
